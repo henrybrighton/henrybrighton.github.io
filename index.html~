@@ -4,7 +4,7 @@
 <title>Henry Brighton's Homepage</title>
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="Henry Brighton" >
-<meta name="date" content="2017-02-26T20:54:32+0100" >
+<meta name="date" content="2017-02-26T21:39:40+0100" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -69,22 +69,14 @@ Before starting my Ph.D. in 1999 I held a Research Scientist position at <a href
 
 <br> <br>
 <hr>
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=1103171; 
-var sc_invisible=1; 
-var sc_security="0046acdb"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="web analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/1103171/0/0046acdb/1/" alt="web
-analytics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
+
+
+<a title="Real Time Web Analytics" href="http://clicky.com/101028579"><img alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(101028579); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101028579ns.gif" /></p></noscript>
+
+
+
 </body>
 </html>
