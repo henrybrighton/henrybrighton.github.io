@@ -211,3 +211,22 @@ text-decoration:none;
 color:#CCCCCC;
 }
 
+figure {
+    display: inline-block;
+}
+
+.imgContainer{
+    float:left;
+display:inline-block;
+}
+
+.fblogo {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%; 
+}
+
+#images{
+    text-align:center;
+}
