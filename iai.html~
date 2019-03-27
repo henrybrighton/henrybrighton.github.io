@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Henry Brighton Introducing Artificial Intelligence</title>
+</head>
+
+<body>
+    <div id="page">
+		
+                <div id="header">
+        	<h1>Henry Brighton</h1>
+            <ul>
+           	   	<li><a href="index.html">Home</a></li>
+           	   	 <!--<li><a href="#">Research</a></li>
+-->
+						<li><a href="publications.html">Publications</a></li>   
+						         	
+               	<li><a href="iai.html">Books</a></li>  
+               	 <!-- 
+                  <li><a href="#">Contact</a></li>
+-->
+            </ul>
+        </div>
+  
+        <div id="main">
+       
+            
+           	<div class="main_body">         	
+<h3>Introducing Artificial Intelligence</h3>
+<p>
+<div id="images">
+    <img class="fblogo" border="0" alt="Mail" src="IAI/iai1.jpg" width="30%" alt="">
+    <img class="fblogo" border="0" alt="Facebook" src="IAI/iai2.jpg" width="30%" alt=""></a>
+    <img class="fblogo" border="0" alt="Mail" src="IAI/iai3.jpg" width="30%" alt=""></a>
+    <img class="fblogo" border="0" alt="Facebook" src="IAI/iai_hung.jpg" width="30%" alt=""></a>
+    <img class="fblogo" border="0" alt="Mail" src="IAI/iai_french.jpg" width="30%" alt=""></a>
+    <img class="fblogo" border="0" alt="Facebook" src="IAI/iai_bport.jpg" width="30%" alt=""></a>
+</div>​
+</p>
+<p>
+<i>Introducing Artificial Intelligence</i> is an illustrated guide to artificial intelligence aimed at a general readership. 
+</p>
+<h3>Blurb</h3>
+<p>
+Can machines really think? Is the mind just a complicated computer program? <i>Introducing Artificial Intelligence</i>
+focuses on the major issues behind one of the hardest scientific problems ever undertaken. Artificial Intelligence 
+is not just a fictional concept. Half a century of research into the construction of intelligent machinery has resulted 
+in machines capable of beating the best human chess players and humanoid robots that can walk and interact with us. 
+Despite early claims that intelligent machines were just around the corner, progress has been slow and difficult. 
+How exactly should we go about building an intelligent machine? Should it work like a mind? 
+Should it work like a brain? Does it require a body? <i>Introducing Artificial Intelligence</i> clearly explains the 
+advances made over the past half-century, from Alan Turing's influential groundwork to cutting edge robotics and 
+the New Al.
+</p>
+
+<!--
+<img src="IAI/iai1.jpg" width="30%" alt=""  style="margin:0px 10px">
+<img src="IAI/iai2.jpg" width="30%" alt=""  style="margin:0px 10px">
+<img src="IAI/iai3.jpg" width="30%" alt=""  style="margin:0px 10px">
+<img src="IAI/iai_hung.jpg" width="30%" alt=""  style="margin:0px 10px">
+<img src="IAI/iai_french.jpg" width="30%" alt=""  style="margin:0px 10px">
+<img src="IAI/iai_bport.jpg" width="30%" alt=""  style="margin:0px 10px">
+-->
+
+<h3>Editions and Translations</h3>
+
+
+<p>Editions:</p>
+<ul>
+	<li>Brighton, H. & Selina, H. (2012) 
+	<a href="http://www.amazon.com/Introducing-Artificial-Intelligence-Graphic-Guide/dp/1848312148"><em>Artificial Intelligence: A graphic guide</em></a> 
+	Cambridge: Icon Books. 	<p>
+	</li>
+
+	<li>Brighton, H., & Selina, H. (2007)
+	<a href="http://www.amazon.com/Introducing-Artificial-Intelligence-Henry-Brighton/dp/1840468416/ref=asap_bc?ie=UTF8"><em>Introducing artificial intelligence (2nd Ed.)</em></a> 
+	Cambridge: Icon Books. 	<p>
+	</li>
+
+	<li>Brighton, H., & Selina, H. (2003) 
+	<em>Introducing artificial intelligence (1st Ed.)</em> 
+	Cambridge: Icon Books.	<p>
+	</li>
+</ul>
+<p>
+Translations:</p>
+<ul>
+	<li>Brighton, H. & Selina, H. (2015) 
+	<em>L'intelligence artificielle en images.</em> [French]
+	Paris: EDP Sciences.	<p>
+	</li>
+
+	<li>Brighton, H. & Selina, H. (2014) 
+	<em>Entendendo Inteligência Artificial.</em> [Brazilian Portuguese]
+	São Paulo: LeYa Brazil.	<p>
+	</li>
+
+	<li> Brighton, H., & Selina, H. (2004) 
+	<em>Mesterséges intelligencia másképp. </em> [Hungarian]
+	Budapest: Edge 2000.	<p>
+	</li>
+</ul>
+           </div>
+            
+           	<div class="main_bottom"></div>
+            
+        </div>
+        
+        
+        
+        <div id="footer">
+        <p>
+        Copyright © 2017 Henry Brighton. <a href="mailto:H.J.Brighton@uvt.nl">H.J.Brighton@uvt.nl</a>
+        </p>
+        </div>
+        </div>
+</body>
+</html>
